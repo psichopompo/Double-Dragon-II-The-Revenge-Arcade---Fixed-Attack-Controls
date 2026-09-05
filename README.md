@@ -1,4 +1,4 @@
-# Double Dragon II: The Revenge (Arcade) — Consistent Attack Buttons
+# Double Dragon II: The Revenge (Arcade) — Fixed Attack Controls
 
 **Type:** Improvement / Hack
 **Platform:** Arcade (Technōs, `ddragon2`)
